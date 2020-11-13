@@ -1,0 +1,15 @@
+{
+  "name": "etri_backend",
+  "version": "1.0.0",
+  "description": "etri backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yeol",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^9.4.0"
+  }
+}
